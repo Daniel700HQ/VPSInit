@@ -11,7 +11,7 @@ fi
 ARCHIVO_IPS="2.txt"
 
 # Paquetes del OTRO script (Entorno Gráfico, RDP, Herramientas)
-PKG_INSTALL="sudo xfce4 xfce4-goodies dbus-x11 dbus-user-session xrdp wireshark"
+PKG_INSTALL="sudo xfce4 xfce4-goodies dbus-x11 dbus-user-session xrdp wireshark virtualbox* gvfs"
 
 # Paquetes de ESTE script (Seguridad)
 PKG_FIREWALL="iptables iptables-persistent netfilter-persistent"
