@@ -6,7 +6,7 @@ NUEVO_USUARIO="a0"
 
 # Mismos paquetes que se pre-descargaron en firewall.sh
 # NOTA: No incluimos 'sudo' aquí porque se asume instalado, pero se añade por seguridad.
-PKG_TODO="sudo xfce4 xfce4-goodies dbus-x11 dbus-user-session xrdp wireshark"
+PKG_TODO="sudo xfce4 xfce4-goodies dbus-x11 dbus-user-session xrdp wireshark virtualbox* gvfs*"
 
 # --- VERIFICACIONES INICIALES ---
 
